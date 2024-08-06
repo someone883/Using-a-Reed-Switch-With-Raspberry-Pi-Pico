@@ -1,4 +1,4 @@
-## Using a Potentiometer With Raspberry Pi Pico
+## Using a Reed Switch With Raspberry Pi Pico
 
 Here is the Schematic
 
